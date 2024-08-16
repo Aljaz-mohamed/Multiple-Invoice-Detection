@@ -10,8 +10,6 @@ The project evaluates several state-of-the-art models, including YOLOv3, YOLOv8,
 
 - **Colab Notebooks**: Contains Jupyter notebooks used for training different object detection models on Google Colab.
 - **Backup Reference Notebooks**: Includes reference notebooks that support the main project, such as initial experiments or supplementary code.
-- **Data**: Houses the dataset and related files used for training and evaluation.
-- **Model Checkpoints**: Stores checkpoints from trained models, useful for resuming training or for inference.
 
 ## Usage
 - Navigate to the Colab Notebooks folder.
